@@ -193,10 +193,10 @@ Screen - Game
    background-image: url('../assets/land.png');
    background-repeat: repeat-x;
    background-position: 0px 0px;
-   background-color: #83e5e3;
+   background-color: #7d4724;
    
-   -webkit-animation: animLand 2516ms linear infinite;
-   animation: animLand 2516ms linear infinite;
+   -webkit-animation: animLand 4516ms linear infinite;
+   animation: animLand 4516ms linear infinite;
 }
 
 #bigscore
