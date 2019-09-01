@@ -167,7 +167,7 @@ Screen - Game
 {
    position: absolute;
    bottom: 0;
-   height: 420px;
+   height: 520px;
    width: 100%;
 }
 
@@ -322,7 +322,7 @@ Screen - Game
 .pipe
 {
    position: absolute;
-   left: -150px;
+   left: -200px;
    width: 71px;
    height: 100%;
    z-index: 10;
@@ -335,7 +335,7 @@ Screen - Game
 {
    position: absolute;
    top: 0;
-   width: 121px;
+   width: 169px;
    background-image: url('../assets/pipe.png');
    background-repeat: repeat-y;
    background-position: center;
@@ -346,8 +346,8 @@ Screen - Game
    content: "";
    position: absolute;
    bottom: 0;
-   width: 121px;
-   height: 26px;
+   width: 168px;
+   height: 38px;
    background-image: url('../assets/pipe-down.png');
 }
 
@@ -355,7 +355,7 @@ Screen - Game
 {
    position: absolute;
    bottom: 0;
-   width: 121px;
+   width: 169px;
    background-image: url('../assets/pipe.png');
    background-repeat: repeat-y;
    background-position: center;
@@ -366,8 +366,8 @@ Screen - Game
    content: "";
    position: absolute;
    top: 0;
-   width: 121px;
-   height: 26px;
+   width: 168px;
+   height: 38px;
    background-image: url('../assets/pipe-up.png');
 }
 
